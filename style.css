@@ -1,4 +1,11 @@
-* {
+* {background-color: blueviolet;}
+
+div {
     font-size: 30px;
     color:aqua;
+}
+
+h2 {
+    font-size: 50px;
+    color:white;
 }
